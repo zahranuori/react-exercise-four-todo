@@ -19,7 +19,7 @@
 }
 
 .TodoList > .todo {
-  margin: 15px;
+  margin: 1rem;
 }
 label {
   cursor: pointer;
