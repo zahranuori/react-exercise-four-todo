@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-exercise-four-todo/static/css/main.98426b7d.css",
+    "main.js": "/react-exercise-four-todo/static/js/main.fb7790aa.js",
+    "static/js/787.d78e35dc.chunk.js": "/react-exercise-four-todo/static/js/787.d78e35dc.chunk.js",
+    "index.html": "/react-exercise-four-todo/index.html",
+    "main.98426b7d.css.map": "/react-exercise-four-todo/static/css/main.98426b7d.css.map",
+    "main.fb7790aa.js.map": "/react-exercise-four-todo/static/js/main.fb7790aa.js.map",
+    "787.d78e35dc.chunk.js.map": "/react-exercise-four-todo/static/js/787.d78e35dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98426b7d.css",
+    "static/js/main.fb7790aa.js"
+  ]
+}
